@@ -14,7 +14,7 @@
 <p><img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/97a9db37-291f-4697-9cb6-4f8014cc8c5b"
 />
     </p>
-
+<a href="[https://portfolio.tjprohammer.us)"></a>
 </td>
 </tbody>
 </table>
@@ -22,7 +22,7 @@
 </div>
 
 ## Links
-<a href="[https://www.linkedin.com/in/colinbut/](https://www.linkedin.com/in/tj-prohammer-2642844b/)"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="(https://www.linkedin.com/in/tj-prohammer-2642844b/)"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="https://www.instagram.com/tjprohammer/?hl=en"> <img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/98136cd5-85f7-49b4-9a3b-a3d15fdf497f" width="40" height="40"/> </a>
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjprohammer&layout=pie&hide_progress=false)
