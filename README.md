@@ -1,8 +1,18 @@
-## Welcome to TJ Prohammer Github 
-
-<p align='center'>
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+<h2>Welcome to TJ Prohammer Github</h2><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+  <p align='center'>
   <img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5" width='175'>
 </p>
+</div>
+
 
 
 - 🔭 I’m currently working on   <br />
