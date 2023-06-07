@@ -1,12 +1,12 @@
-### Hi there 👋
+
+![CircleNew-Logo-Mts-trees-sigake3Final](https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5)
 
 <!--
-**tjprohammer/tjprohammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  Creating and managing ECS cluster for https://www.tjprohammer.us using Terraform
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
