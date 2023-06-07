@@ -4,7 +4,7 @@
 <td align="center">
 <img width="2000" height="0"><br>
 <h2>Welcome! I'm TJ Prohammer</h2><br>
-    <h3>A IT/Software/Devops/Cloud Engineer</h3>
+    <h3>IT/Software/Devops/Cloud Engineer</h3>
     <h5>Never stop learning because their are endless things to learn in the beautiful world</h5>
     <p align='center'>
   <img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5" width='175'>
