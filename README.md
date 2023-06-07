@@ -1,5 +1,5 @@
 
-![CircleNew-Logo-Mts-trees-sigake3Final](https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5) | width=60
+![CircleNew-Logo-Mts-trees-sigake3Final](https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5 | width=60)
 
 
 - 🔭 I’m currently working on ...
