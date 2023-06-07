@@ -14,7 +14,7 @@
 <p><img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/97a9db37-291f-4697-9cb6-4f8014cc8c5b"
 />
     </p>
-<a href="[https://portfolio.tjprohammer.us)"></a>
+<a href="https://portfolio.tjprohammer.us"></a>
 </td>
 </tbody>
 </table>
