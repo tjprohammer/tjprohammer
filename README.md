@@ -27,7 +27,7 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjprohammer&layout=pie&hide_progress=false)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjprohammer&show_icons=true&theme=radical)
+![TJProhammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjprohammer&show_icons=true&theme=radical)
 <!--
 - 🔭 I’m currently working on   <br />
 - 🌱 I’m currently learning ...  <br />
