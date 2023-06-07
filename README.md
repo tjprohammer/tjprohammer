@@ -4,7 +4,6 @@
 <td align="center">
 <img width="2000" height="0"><br>
 <h2>Welcome to TJ Prohammer Github</h2><br>
-<img width="2000" height="0">
 </td>
 </tbody>
 </table>
