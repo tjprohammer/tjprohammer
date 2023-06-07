@@ -23,7 +23,7 @@
 
 ## Links
 [![linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][1]
-[![instagram](https://github.com/tjprohammer/tjprohammer/assets/65262637/98136cd5-85f7-49b4-9a3b-a3d15fdf497f)][2]
+[![linkedin](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)][2]
 
 [1]: https://www.linkedin.com/in/tj-prohammer-2642844b/
 [2]: https://www.instagram.com/tjprohammer/?hl=en
