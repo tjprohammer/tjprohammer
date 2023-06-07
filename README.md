@@ -1,6 +1,7 @@
 
-![CircleNew-Logo-Mts-trees-sigake3Final](https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5 | width=60)
 
+
+<img src="https://github.com/tjprohammer/tjprohammer/assets/65262637/462c4596-668a-439c-9e6a-58829bdb00a5" width='50' height='50'>
 
 - 🔭 I’m currently working on ...
   Creating and managing ECS cluster for https://www.tjprohammer.us using Terraform
