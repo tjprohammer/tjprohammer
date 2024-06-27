@@ -1,4 +1,6 @@
-Always keep learning
+Always keep learning  
+
+Terraform, AWS, Golang, Typescript
 <!--
 - 🔭 I’m currently working on   <br />
 - 🌱 I’m currently learning ...  <br />
